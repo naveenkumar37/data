@@ -91,7 +91,7 @@ class EuroStatFruitsVegetables(EuroStat):
         "Daily": "frequenc_fruitsvegetables",
         "Never": "frequenc_fruitsvegetables",
         "AtLeastOnceADay": "frequenc_fruitsvegetables",
-        "AtLeastTwiceADay": "frequenc_fruitsvegetables",
+        "AtleastTwiceADay": "frequenc_fruitsvegetables",
         "NeverOrOccasionallyUsage": "frequenc_fruitsvegetables",
         "From1To3TimesAWeek": "frequenc_fruitsvegetables",
         "From4To6TimesAWeek": "frequenc_fruitsvegetables",

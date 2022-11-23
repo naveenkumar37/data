@@ -52,6 +52,7 @@ populationType: dcs:Person
 measurementDenominator: dcs:Count_Person_Female
 gender: dcs:Female
 healthBehavior: dcs:ConsumptionOfFruits
+activityFrequency: dcs:AtleastTwiceADay
 statType: dcs:measuredValue
 measuredProperty: dcs:count
 
@@ -63,6 +64,7 @@ measurementDenominator: dcs:Count_Person_LessThanPrimaryEducationOrPrimaryEducat
 educationalAttainment: dcs:LessThanPrimaryEducation__PrimaryEducation__LowerSecondaryEducation
 gender: dcs:Female
 healthBehavior: dcs:ConsumptionOfFruits
+activityFrequency: dcs:AtleastTwiceADay
 statType: dcs:measuredValue
 measuredProperty: dcs:count
 
@@ -74,6 +76,7 @@ measurementDenominator: dcs:Count_Person_TertiaryEducationStageOneOrTertiaryEduc
 educationalAttainment: dcs:TertiaryEducationStageOne__TertiaryEducationStageTwo
 gender: dcs:Female
 healthBehavior: dcs:ConsumptionOfFruits
+activityFrequency: dcs:AtleastTwiceADay
 statType: dcs:measuredValue
 measuredProperty: dcs:count
 
@@ -85,6 +88,7 @@ measurementDenominator: dcs:Count_Person_UpperSecondaryEducationOrPostSecondaryN
 educationalAttainment: dcs:UpperSecondaryEducation__PostSecondaryNonTertiaryEducation
 gender: dcs:Female
 healthBehavior: dcs:ConsumptionOfFruits
+activityFrequency: dcs:AtleastTwiceADay
 statType: dcs:measuredValue
 measuredProperty: dcs:count
 
@@ -95,6 +99,7 @@ populationType: dcs:Person
 measurementDenominator: dcs:Count_Person_Female
 gender: dcs:Female
 healthBehavior: dcs:ConsumptionOfVegetables
+activityFrequency: dcs:AtleastTwiceADay
 statType: dcs:measuredValue
 measuredProperty: dcs:count
 
@@ -106,6 +111,7 @@ measurementDenominator: dcs:Count_Person_LessThanPrimaryEducationOrPrimaryEducat
 educationalAttainment: dcs:LessThanPrimaryEducation__PrimaryEducation__LowerSecondaryEducation
 gender: dcs:Female
 healthBehavior: dcs:ConsumptionOfVegetables
+activityFrequency: dcs:AtleastTwiceADay
 statType: dcs:measuredValue
 measuredProperty: dcs:count
 
@@ -117,6 +123,7 @@ measurementDenominator: dcs:Count_Person_TertiaryEducationStageOneOrTertiaryEduc
 educationalAttainment: dcs:TertiaryEducationStageOne__TertiaryEducationStageTwo
 gender: dcs:Female
 healthBehavior: dcs:ConsumptionOfVegetables
+activityFrequency: dcs:AtleastTwiceADay
 statType: dcs:measuredValue
 measuredProperty: dcs:count
 
@@ -128,6 +135,7 @@ measurementDenominator: dcs:Count_Person_UpperSecondaryEducationOrPostSecondaryN
 educationalAttainment: dcs:UpperSecondaryEducation__PostSecondaryNonTertiaryEducation
 gender: dcs:Female
 healthBehavior: dcs:ConsumptionOfVegetables
+activityFrequency: dcs:AtleastTwiceADay
 statType: dcs:measuredValue
 measuredProperty: dcs:count
 
